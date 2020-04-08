@@ -1,0 +1,43 @@
+outcome	comparison	Resid. Df	Resid. Dev	Df	Deviance	Pr(>Chi)
+COV+ vs COV-	abo_full_vs_null	1557	2135.6271889390014	NA	NA	NA
+COV+ vs COV-	abo_full_vs_null	1547	2003.024207405661	10	132.60298153334043	1.374365972096495e-23
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_null	681	785.1426236871545	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_null	671	769.8722793371394	10	15.27034435001508	0.12251203945711289
+COV+/Died vs COV+/Alive	abo_full_vs_null	681	493.10622759884063	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_full_vs_null	671	391.9411489521546	10	101.16507864668603	3.184827822283077e-17
+COV+ vs COV-	abo_rh_full_vs_null	1557	2135.6271889390014	NA	NA	NA
+COV+ vs COV-	abo_rh_full_vs_null	1543	1996.611539771997	14	139.0156491670043	1.1132353479773532e-22
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_null	681	785.1426236871545	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_null	668	767.0169904860663	13	18.125633201088135	0.15280724404229112
+COV+/Died vs COV+/Alive	abo_rh_full_vs_null	681	493.10622759884063	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_rh_full_vs_null	668	387.45307884041625	13	105.65314875842438	1.3210165140117732e-16
+COV+ vs COV-	rf_nested_vs_null	1557	2135.6271889390014	NA	NA	NA
+COV+ vs COV-	rf_nested_vs_null	1550	2013.7766295167908	7	121.85055942221061	3.1535111880537155e-23
+COV+/Intubated vs COV+/Not intubated	rf_nested_vs_null	681	785.1426236871545	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	rf_nested_vs_null	674	772.8928850394825	7	12.249738647671961	0.09263944564143607
+COV+/Died vs COV+/Alive	rf_nested_vs_null	681	493.10622759884063	NA	NA	NA
+COV+/Died vs COV+/Alive	rf_nested_vs_null	674	393.09393669456284	7	100.01229090427779	1.0725114310174956e-18
+COV+ vs COV-	abo_full_vs_rf_nested	1550	2013.7766295167908	NA	NA	NA
+COV+ vs COV-	abo_full_vs_rf_nested	1547	2003.024207405661	3	10.752422111129817	0.013142795940204064
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_rf_nested	674	772.8928850394825	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_rf_nested	671	769.8722793371394	3	3.0206057023431185	0.3884590804327126
+COV+/Died vs COV+/Alive	abo_full_vs_rf_nested	674	393.09393669456284	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_full_vs_rf_nested	671	391.9411489521546	3	1.1527877424082362	0.7643485718508769
+COV+ vs COV-	abo_rh_full_vs_rf_nested	1550	2013.7766295167908	NA	NA	NA
+COV+ vs COV-	abo_rh_full_vs_rf_nested	1543	1996.611539771997	7	17.165089744793704	0.016362111718014445
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_rf_nested	674	772.8928850394825	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_rf_nested	668	767.0169904860663	6	5.875894553416174	0.437235227724676
+COV+/Died vs COV+/Alive	abo_rh_full_vs_rf_nested	674	393.09393669456284	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_rh_full_vs_rf_nested	668	387.45307884041625	6	5.640857854146589	0.46459819896243065
+COV+ vs COV-	abo_full_vs_abo_nested	1554	2123.006585090299	NA	NA	NA
+COV+ vs COV-	abo_full_vs_abo_nested	1547	2003.024207405661	7	119.98237768463787	7.726259561118201e-23
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_abo_nested	678	781.7698254223823	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_full_vs_abo_nested	671	769.8722793371394	7	11.89754608524288	0.10397886199555693
+COV+/Died vs COV+/Alive	abo_full_vs_abo_nested	678	490.49767667321436	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_full_vs_abo_nested	671	391.9411489521546	7	98.55652772105975	2.142498458338486e-18
+COV+ vs COV-	abo_rh_full_vs_abo_rh_nested	1550	2116.0377317304237	NA	NA	NA
+COV+ vs COV-	abo_rh_full_vs_abo_rh_nested	1543	1996.611539771997	7	119.42619195842667	1.0087503944252655e-22
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_abo_rh_nested	675	779.0650768765652	NA	NA	NA
+COV+/Intubated vs COV+/Not intubated	abo_rh_full_vs_abo_rh_nested	668	767.0169904860663	7	12.048086390498838	0.0989885695367822
+COV+/Died vs COV+/Alive	abo_rh_full_vs_abo_rh_nested	675	482.8877635678812	NA	NA	NA
+COV+/Died vs COV+/Alive	abo_rh_full_vs_abo_rh_nested	668	387.45307884041625	7	95.43468472746497	9.431908206396824e-18
