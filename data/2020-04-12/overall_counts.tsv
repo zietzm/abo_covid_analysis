@@ -1,0 +1,10 @@
+abo	rh	intubation_binary_covid_pos	intubation_binary	died_binary_covid_pos	died_binary	covid_result_binary	total_tested	num_general
+A	neg	3	18	2	3	22	61	3438
+A	pos	90	174	47	69	337	641	32070
+AB	neg	0	3	0	0	0	5	394
+AB	pos	15	26	11	14	36	86	4174
+B	neg	4	8	1	3	17	33	1417
+B	pos	49	81	31	40	170	330	14760
+O	neg	7	16	0	5	35	74	4792
+O	pos	128	241	81	106	472	1037	47440
+unknown	unknown	140	201	136	159	3013	5032	NA

@@ -1,0 +1,5 @@
+statistic	p.value	parameter	method	comparison
+6.373452796494556	0.09478906287484734	3	Pearson's Chi-squared test	positive_vs_general
+9.654821192568843	0.02174010152695639	3	Pearson's Chi-squared test	positive_vs_negative
+4.317683551486963	0.22914047558456443	3	Pearson's Chi-squared test	intubated_covid_positive_vs_not_intubated_covid_positive
+7.3555845917779905	0.061387546625035136	3	Pearson's Chi-squared test	died_covid_positive_vs_alive_covid_positive

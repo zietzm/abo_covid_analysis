@@ -1,0 +1,17 @@
+blood_group	comparison	method	alternative	estimate	conf.low	conf.high	p.value
+A	positive_vs_general	Fisher's Exact Test for Count Data	two.sided	1.0107249732667671	0.8876897500144628	1.1491382184851098	0.8711321011639517
+A	positive_vs_negative	Fisher's Exact Test for Count Data	two.sided	1.1970920107049134	0.997709006469011	1.4365262294510266	0.050612840231165
+A	intubated_covid_positive_vs_not_intubated_covid_positive	Fisher's Exact Test for Count Data	two.sided	0.907694710074685	0.6732183149648391	1.2188211856334419	0.5154619483979609
+A	died_covid_positive_vs_alive_covid_positive	Fisher's Exact Test for Count Data	two.sided	0.7726544898464256	0.5281933623708955	1.1171188548762103	0.18577048647583078
+AB	positive_vs_general	Fisher's Exact Test for Count Data	two.sided	0.7777383645339594	0.5409828037752707	1.085449258764738	0.14907510971826915
+AB	positive_vs_negative	Fisher's Exact Test for Count Data	two.sided	0.6981694546705324	0.44154571555394795	1.092123293136802	0.10843346548744753
+AB	intubated_covid_positive_vs_not_intubated_covid_positive	Fisher's Exact Test for Count Data	two.sided	1.9610945883722186	0.9264066543388307	4.054545423329214	0.0563837057679788
+AB	died_covid_positive_vs_alive_covid_positive	Fisher's Exact Test for Count Data	two.sided	2.417459250898861	1.0520422802195195	5.213589350086521	0.02049535801359521
+B	positive_vs_general	Fisher's Exact Test for Count Data	two.sided	1.182953033200479	1.0042431535041665	1.3875912851165209	0.040204201894060466
+B	positive_vs_negative	Fisher's Exact Test for Count Data	two.sided	1.1802044000945433	0.9367802154863646	1.4873068423768983	0.15218665266698525
+B	intubated_covid_positive_vs_not_intubated_covid_positive	Fisher's Exact Test for Count Data	two.sided	1.0725587961896306	0.7399354519878852	1.5391830966097668	0.7181140750606766
+B	died_covid_positive_vs_alive_covid_positive	Fisher's Exact Test for Count Data	two.sided	1.1141230975061178	0.7067951144398484	1.717433291653196	0.6600994203723095
+O	positive_vs_general	Fisher's Exact Test for Count Data	two.sided	0.9381761241647932	0.830726248427532	1.059303185255946	0.30023283156451835
+O	positive_vs_negative	Fisher's Exact Test for Count Data	two.sided	0.8279397692439158	0.6994991840357749	0.9797826036706025	0.025879332638895407
+O	intubated_covid_positive_vs_not_intubated_covid_positive	Fisher's Exact Test for Count Data	two.sided	0.9489808554661638	0.7190658552178353	1.2514154776150601	0.7329593466022067
+O	died_covid_positive_vs_alive_covid_positive	Fisher's Exact Test for Count Data	two.sided	1.0126969362975426	0.7208491854614146	1.4208086692582123	1
