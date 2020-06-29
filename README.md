@@ -9,4 +9,4 @@ Michael Zietz, Nicholas P. Tatonetti <br>
 _medRxiv_ (2020-04-11) https://doi.org/ggrn8f <br>
 DOI: 10.1101/2020.04.08.20058073 · PMID: 32511586 · PMCID: PMC7276013
 
-Questions about the specifics in this repository can be raised by opening an issue or contacting @zietzm.
+Questions about the specifics in this repository can be raised by opening an issue or contacting [**@zietzm**](https://github.com/zietzm).
