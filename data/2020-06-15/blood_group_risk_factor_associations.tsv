@@ -1,0 +1,169 @@
+Blood group	Term	OR	95% CI	p-value
+A	age 	1.047	0.989-1.110	0.12
+A	sex (male)	0.940	0.848-1.042	0.24
+A	ethnicity (Hispanic)	0.838	0.740-0.950	0.0057
+A	ethnicity (Other)	0.659	0.420-1.034	0.07
+A	ethnicity (Missing)	0.900	0.768-1.054	0.19
+A	race (Asian)	0.467	0.325-0.672	4.1e-05
+A	race (Black)	0.592	0.516-0.680	1.2e-13
+A	race (Other)	0.800	0.698-0.915	0.0012
+A	race (Missing)	0.769	0.655-0.902	0.0013
+A	cardiovascular disorders	1.057	0.913-1.225	0.46
+A	diabetes mellitus	1.005	0.892-1.131	0.94
+A	hypertension	1.002	0.870-1.153	0.98
+A	obesity	1.052	0.952-1.162	0.32
+A	respiratory disorders	0.998	0.890-1.119	0.97
+AB	age 	1.015	0.889-1.159	0.82
+AB	sex (male)	1.129	0.893-1.428	0.31
+AB	ethnicity (Hispanic)	0.725	0.540-0.974	0.033
+AB	ethnicity (Other)	1.515	0.683-3.363	0.31
+AB	ethnicity (Missing)	1.061	0.750-1.500	0.74
+AB	race (Asian)	1.164	0.597-2.271	0.66
+AB	race (Black)	0.913	0.672-1.240	0.56
+AB	race (Other)	0.945	0.685-1.304	0.73
+AB	race (Missing)	0.789	0.542-1.148	0.22
+AB	cardiovascular disorders	1.194	0.863-1.654	0.28
+AB	diabetes mellitus	0.925	0.702-1.217	0.58
+AB	hypertension	0.845	0.620-1.151	0.29
+AB	obesity	0.980	0.778-1.236	0.87
+AB	respiratory disorders	0.965	0.744-1.250	0.78
+B	age 	1.011	0.938-1.091	0.77
+B	sex (male)	0.998	0.873-1.141	0.98
+B	ethnicity (Hispanic)	0.727	0.616-0.858	0.00016
+B	ethnicity (Other)	0.611	0.330-1.131	0.12
+B	ethnicity (Missing)	0.927	0.759-1.133	0.46
+B	race (Asian)	3.098	2.212-4.338	4.7e-11
+B	race (Black)	1.719	1.451-2.036	3.5e-10
+B	race (Other)	1.103	0.911-1.335	0.32
+B	race (Missing)	1.279	1.035-1.581	0.023
+B	cardiovascular disorders	0.782	0.643-0.952	0.014
+B	diabetes mellitus	1.111	0.953-1.296	0.18
+B	hypertension	1.143	0.945-1.382	0.17
+B	obesity	0.872	0.765-0.995	0.041
+B	respiratory disorders	0.987	0.851-1.146	0.87
+O	age 	0.952	0.902-1.006	0.078
+O	sex (male)	1.036	0.940-1.141	0.48
+O	ethnicity (Hispanic)	1.446	1.285-1.626	8.1e-10
+O	ethnicity (Other)	1.660	1.114-2.473	0.013
+O	ethnicity (Missing)	1.137	0.980-1.319	0.09
+O	race (Asian)	0.836	0.609-1.149	0.27
+O	race (Black)	1.193	1.050-1.356	0.0068
+O	race (Other)	1.181	1.039-1.342	0.011
+O	race (Missing)	1.171	1.007-1.361	0.04
+O	cardiovascular disorders	1.045	0.910-1.200	0.53
+O	diabetes mellitus	0.956	0.855-1.068	0.43
+O	hypertension	0.965	0.845-1.101	0.59
+O	obesity	1.028	0.936-1.130	0.56
+O	respiratory disorders	1.014	0.911-1.129	0.8
+A-	age 	0.852	0.732-0.990	0.037
+A-	sex (male)	0.929	0.705-1.223	0.6
+A-	ethnicity (Hispanic)	0.722	0.523-0.995	0.047
+A-	ethnicity (Other)	0.766	0.236-2.486	0.66
+A-	ethnicity (Missing)	0.736	0.485-1.117	0.15
+A-	race (Asian)	0.308	0.097-0.983	0.047
+A-	race (Black)	0.441	0.299-0.650	3.7e-05
+A-	race (Other)	0.617	0.430-0.887	0.0092
+A-	race (Missing)	0.737	0.488-1.114	0.15
+A-	cardiovascular disorders	1.321	0.919-1.899	0.13
+A-	diabetes mellitus	0.920	0.666-1.272	0.61
+A-	hypertension	0.867	0.613-1.226	0.42
+A-	obesity	0.837	0.642-1.092	0.19
+A-	respiratory disorders	1.006	0.751-1.348	0.97
+A+	age 	1.076	1.014-1.142	0.015
+A+	sex (male)	0.949	0.853-1.055	0.33
+A+	ethnicity (Hispanic)	0.875	0.769-0.994	0.041
+A+	ethnicity (Other)	0.671	0.420-1.071	0.095
+A+	ethnicity (Missing)	0.940	0.799-1.106	0.46
+A+	race (Asian)	0.530	0.365-0.770	0.00087
+A+	race (Black)	0.651	0.565-0.751	3.5e-09
+A+	race (Other)	0.853	0.742-0.980	0.025
+A+	race (Missing)	0.799	0.678-0.942	0.0077
+A+	cardiovascular disorders	1.012	0.869-1.179	0.88
+A+	diabetes mellitus	1.016	0.900-1.147	0.8
+A+	hypertension	1.028	0.889-1.188	0.71
+A+	obesity	1.085	0.979-1.202	0.12
+A+	respiratory disorders	0.997	0.887-1.121	0.96
+AB+	age 	0.980	0.853-1.126	0.78
+AB+	sex (male)	1.145	0.897-1.461	0.28
+AB+	ethnicity (Hispanic)	0.709	0.522-0.963	0.028
+AB+	ethnicity (Other)	1.579	0.709-3.512	0.26
+AB+	ethnicity (Missing)	0.966	0.669-1.394	0.85
+AB+	race (Asian)	1.043	0.498-2.186	0.91
+AB+	race (Black)	1.030	0.751-1.412	0.85
+AB+	race (Other)	1.052	0.753-1.470	0.77
+AB+	race (Missing)	0.857	0.577-1.273	0.45
+AB+	cardiovascular disorders	1.094	0.777-1.541	0.61
+AB+	diabetes mellitus	0.984	0.741-1.309	0.91
+AB+	hypertension	0.889	0.641-1.233	0.48
+AB+	obesity	0.873	0.685-1.113	0.27
+AB+	respiratory disorders	1.022	0.779-1.341	0.87
+B-	age 	1.125	0.894-1.415	0.32
+B-	sex (male)	0.615	0.394-0.961	0.033
+B-	ethnicity (Hispanic)	0.748	0.445-1.255	0.27
+B-	ethnicity (Other)	2.086	0.619-7.027	0.24
+B-	ethnicity (Missing)	1.040	0.570-1.898	0.9
+B-	race (Asian)	0.277	0.038-2.034	0.21
+B-	race (Black)	0.703	0.407-1.215	0.21
+B-	race (Other)	0.548	0.298-1.009	0.054
+B-	race (Missing)	0.820	0.446-1.508	0.52
+B-	cardiovascular disorders	0.522	0.276-0.985	0.045
+B-	diabetes mellitus	0.861	0.516-1.435	0.57
+B-	hypertension	1.238	0.653-2.346	0.51
+B-	obesity	0.867	0.574-1.311	0.5
+B-	respiratory disorders	1.042	0.655-1.656	0.86
+B+	age 	0.999	0.923-1.081	0.98
+B+	sex (male)	1.050	0.914-1.206	0.49
+B+	ethnicity (Hispanic)	0.732	0.616-0.870	0.00039
+B+	ethnicity (Other)	0.490	0.244-0.984	0.045
+B+	ethnicity (Missing)	0.918	0.746-1.131	0.42
+B+	race (Asian)	3.589	2.553-5.046	2e-13
+B+	race (Black)	1.872	1.569-2.233	3.1e-12
+B+	race (Other)	1.195	0.979-1.460	0.08
+B+	race (Missing)	1.348	1.079-1.683	0.0085
+B+	cardiovascular disorders	0.825	0.673-1.012	0.065
+B+	diabetes mellitus	1.136	0.968-1.332	0.12
+B+	hypertension	1.130	0.928-1.376	0.22
+B+	obesity	0.877	0.765-1.005	0.06
+B+	respiratory disorders	0.983	0.842-1.147	0.83
+O-	age 	0.948	0.825-1.089	0.45
+O-	sex (male)	0.942	0.735-1.207	0.64
+O-	ethnicity (Hispanic)	0.817	0.603-1.107	0.19
+O-	ethnicity (Other)	0.988	0.353-2.765	0.98
+O-	ethnicity (Missing)	1.343	0.941-1.916	0.1
+O-	race (Asian)	0.309	0.097-0.985	0.047
+O-	race (Black)	0.430	0.297-0.622	7.5e-06
+O-	race (Other)	0.759	0.552-1.044	0.09
+O-	race (Missing)	0.654	0.451-0.948	0.025
+O-	cardiovascular disorders	0.686	0.466-1.011	0.057
+O-	diabetes mellitus	1.034	0.780-1.371	0.81
+O-	hypertension	1.591	1.101-2.299	0.013
+O-	obesity	1.037	0.817-1.317	0.77
+O-	respiratory disorders	1.221	0.923-1.616	0.16
+O+	age 	0.959	0.908-1.013	0.13
+O+	sex (male)	1.045	0.948-1.153	0.37
+O+	ethnicity (Hispanic)	1.501	1.333-1.690	2.1e-11
+O+	ethnicity (Other)	1.671	1.124-2.486	0.011
+O+	ethnicity (Missing)	1.086	0.934-1.262	0.28
+O+	race (Asian)	0.970	0.703-1.337	0.85
+O+	race (Black)	1.355	1.190-1.542	4.2e-06
+O+	race (Other)	1.244	1.094-1.415	0.00089
+O+	race (Missing)	1.264	1.086-1.472	0.0024
+O+	cardiovascular disorders	1.101	0.958-1.266	0.17
+O+	diabetes mellitus	0.951	0.849-1.064	0.38
+O+	hypertension	0.902	0.789-1.030	0.13
+O+	obesity	1.023	0.931-1.125	0.64
+O+	respiratory disorders	0.985	0.884-1.097	0.78
+Rh-neg	age 	0.951	0.865-1.045	0.3
+Rh-neg	sex (male)	0.872	0.734-1.035	0.12
+Rh-neg	ethnicity (Hispanic)	0.758	0.617-0.932	0.0085
+Rh-neg	ethnicity (Other)	1.047	0.534-2.052	0.89
+Rh-neg	ethnicity (Missing)	1.080	0.843-1.383	0.54
+Rh-neg	race (Asian)	0.356	0.180-0.705	0.0031
+Rh-neg	race (Black)	0.434	0.340-0.554	2e-11
+Rh-neg	race (Other)	0.633	0.505-0.793	6.8e-05
+Rh-neg	race (Missing)	0.671	0.520-0.866	0.0021
+Rh-neg	cardiovascular disorders	0.915	0.718-1.167	0.47
+Rh-neg	diabetes mellitus	0.933	0.765-1.137	0.49
+Rh-neg	hypertension	1.138	0.902-1.436	0.28
+Rh-neg	obesity	0.978	0.829-1.152	0.79
+Rh-neg	respiratory disorders	1.071	0.888-1.292	0.47
