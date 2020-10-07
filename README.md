@@ -1,5 +1,7 @@
 # Analysis for COVID-19 blood group associations
 
+[![DOI](https://zenodo.org/badge/253378954.svg)](https://zenodo.org/badge/latestdoi/253378954)
+
 This repository hosts figures and additional data for our COVID-19 blood group analysis.
 
 For more information on this project, see our preprint:
